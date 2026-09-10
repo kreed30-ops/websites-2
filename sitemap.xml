@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kreed30-ops.github.io/websites-2/about.html</loc>
-    <lastmod>2026-09-10T21:45:21.197Z</lastmod>
+    <loc>https://kreed30-ops.github.io/websites-2/source-2.html</loc>
+    <lastmod>2026-09-10T21:57:02.355Z</lastmod>
   </url>
   <url>
     <loc>https://kreed30-ops.github.io/websites-2/index.html</loc>
-    <lastmod>2026-09-10T21:37:35.612Z</lastmod>
+    <lastmod>2026-09-10T22:13:00.643Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kreed30-ops.github.io/websites-2/source-1.html</loc>
+    <lastmod>2026-09-10T21:57:02.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kreed30-ops.github.io/websites-2/about.html</loc>
+    <lastmod>2026-09-10T21:45:21.197Z</lastmod>
   </url>
 </urlset>

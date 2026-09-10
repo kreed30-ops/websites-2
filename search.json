@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Billboard Graphic",
+    "section": "",
+    "text": "This bump chart follows six songs through their first 20 weeks on the Billboard Hot 100. Because a smaller rank is better, the vertical axis is reversed so a song moving upward on the graphic is climbing the chart."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -12,12 +19,5 @@
     "title": "About",
     "section": "",
     "text": "My name is Kara Reed. I graduated from St. Johns River State College as a high school senior.\nKane’s Free Data Science Bootcamp"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Billboard Graphic",
-    "section": "",
-    "text": "This bump chart follows six songs through their first 20 weeks on the Billboard Hot 100. Because a smaller rank is better, the vertical axis is reversed so a song moving upward on the graphic is climbing the chart."
   }
 ]
